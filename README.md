@@ -67,8 +67,6 @@ Dashboards are provided via MS Access and include:
 
 <img src="https://image2url.com/images/1755686917071-3ea0c735-c3e5-4289-ae1a-c0ce0c25170f.png" alt="Dashboard Preview" width="600"/>
 
-> _Includes view distribution by country and category, engagement metrics over time, and KPI cards for average views, likes, and comments._
-
 ---
 
 ## 🧪 How to Run Locally  
